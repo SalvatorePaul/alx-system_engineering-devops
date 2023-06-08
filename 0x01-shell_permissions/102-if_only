@@ -1,2 +1,2 @@
 #!/bin/bash
-chon --from=guilliaume betty hello
+chon --from=guilliaume betty:hello
