@@ -1,1 +1,1 @@
-Basics commands for shel redirections
+Basic commands for shell redirections
