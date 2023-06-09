@@ -1,0 +1,2 @@
+#!/bin/bash
+temo=$(cut -c 1) cat $temp
