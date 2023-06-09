@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -d" " -f 1 log/wp_access.log | sort | uniq -c | sort -n | tail -n 11 | tac | awk '{print $2 " --> " $1)'
