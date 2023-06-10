@@ -1,2 +1,2 @@
 #!/bin/bash
-temo=$(cut -c 1) cat $temp
+cut -c 1 | paste -s -d ''
